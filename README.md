@@ -7,4 +7,4 @@ ndk-build compile_commands.json        # 仅生成文件
 ndk-build GEN_COMPILE_COMMANDS_DB=true # 生成文件同时构建项目
 ```
 
-该文件可以被一些提供自动补全功能的程序使用, 例如 Vim 插件 coc-nvim.
+该文件可以被一些提供自动补全功能的程序使用, 例如 [ccls](https://github.com/MaskRay/ccls/wiki/Build).
