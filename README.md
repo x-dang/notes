@@ -1,4 +1,4 @@
-# 技术备忘录
+# 我的备忘录
 
 ## 使用 `ndk-build` 生成 *compile_commands.json* 文件
 
